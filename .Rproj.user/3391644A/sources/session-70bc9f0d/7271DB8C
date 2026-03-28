@@ -1,0 +1,24 @@
+{
+    "id": "7271DB8C",
+    "path": "~/churn-prediction/step5_model_building.R",
+    "project_path": "step5_model_building.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1774695527399.0,
+    "source_on_save": false,
+    "relative_order": 5,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1774630556,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1774630556,
+    "read_only": false,
+    "read_only_alternatives": []
+}
